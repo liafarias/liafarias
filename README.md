@@ -21,5 +21,5 @@ Olá, eu sou a Lia Farias!👋
   
   
   
-  
- ![Snake animation](https://github.com/liafarias/liafarias/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/liafarias/liafarias/blob/output/github-contribution-grid-snake.svg)
