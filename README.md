@@ -6,7 +6,6 @@
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liafarias&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ##
   <div>
   <h2 align="left">Minhas Tecnologias</h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +16,6 @@
   <img align="right" height="150" style="border-radius:50px;"alt="Mascote" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_OXfhdeTN.png">
     <div>
   
-  ##
   
   <div>
     <a href="https://instagram.com/liafaria.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
