@@ -1,5 +1,23 @@
 <h1 align="left">Olá, eu sou a Lia!👋</h1>
 
+🦄 Sou Desenvolvedora Front-End e UI Designer, e curso Analise e Desenvolvimento de Sistemas.
+
+<h3>Habilidades</h3>
+  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+ <h3>Tecnologias</h3>
+  <img align="center" alt="Js" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img align="center" alt="Js" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+
+
 <div align="center">
   <a href="https://github.com/liafarias">
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=liafarias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
