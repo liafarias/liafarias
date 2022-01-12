@@ -20,31 +20,21 @@
    <img align="center" alt="Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174874.png">
  </div>
  </div>
+ 
+ ##
 
+<img align="right" height="150" style="border-radius:50px;"alt="Mascote" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_OXfhdeTN.png">
 
-<div align="center">
-  <a href="https://github.com/liafarias">
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=liafarias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liafarias&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-  <div>
-  <h2 align="left">Minhas Tecnologias</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="150" style="border-radius:50px;"alt="Mascote" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_OXfhdeTN.png">
-    <div>
-      
-   ##
-  
   <div>
     <a href="https://instagram.com/studiesdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:liacarlosfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liafarias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
+<div align="center">
+  <a href="https://github.com/liafarias">
+  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=liafarias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liafarias&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
   
   ![Snake animation](https://github.com/liafarias/liafarias/blob/output/github-contribution-grid-snake.svg)
