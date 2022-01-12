@@ -12,11 +12,11 @@
  </div>
 
  <h3>Tecnologias</h3>
-  <img align="center" alt="Js" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-  <img align="center" alt="Js" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VsCode" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img align="center" alt="Figma" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img align="center" alt="Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="GitHub" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center" alt="Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174874.png">
 
 
 
@@ -30,7 +30,7 @@
   <h2 align="left">Minhas Tecnologias</h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="150" style="border-radius:50px;"alt="Mascote" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_OXfhdeTN.png">
