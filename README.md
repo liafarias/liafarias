@@ -1,5 +1,5 @@
 <h1 align="left">Olá, eu sou a Lia!👋</h1>
-<img align="right" alt="figure" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="right" width="300px" alt="figure" src="https://i.ibb.co/g6cNGrp/image-1.png">
 <p>🦄 Sou Desenvolvedora Front-End e UI Designer, e curso Analise e Desenvolvimento de Sistemas.</p>
 
 <div>
