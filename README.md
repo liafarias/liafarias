@@ -3,15 +3,13 @@
     <h1>Olá, eu sou a Lia.</h1>
     <p>🦄 Sou Desenvolvedora Web e curso Analise e Desenvolvimento de Sistemas.</p>
     <div>
+        <img align="center" alt="RUBY" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png">
         <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt="Vue" height="40" width="40" src="https://img.icons8.com/color/452/vue-js.png">
-        <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="NodeJs" height="40" width="40" src="https://img.icons8.com/fluency/452/node-js.png">
+        <img align="center" alt="Vue" height="40" width="40" src="https://img.icons8.com/color/452/vue-js.png">
         <img align="center" alt="MySQL" height="40" width="40" src="https://img.icons8.com/ios/344/ffffff/mysql-logo.png">
-        <img align="center" alt="MongoDB" height="40" width="40" src="https://img.icons8.com/color/452/mongodb.png">
         <img align="center" alt="Docker" height="40" width="40" src="https://img.icons8.com/fluency/452/docker.png">
         <img align="center" alt="Git" height="40" width="40" src="https://img.icons8.com/color/452/git.png">
         <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-glyphs/344/ffffff/github.png">
