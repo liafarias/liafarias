@@ -1,7 +1,7 @@
 <section align="center">
     <img width="250px" alt="figure" src="https://i.ibb.co/g6cNGrp/image-1.png">
     <h1>Olá, eu sou a Lia.</h1>
-    <p>🦄 Sou Desenvolvedora Web e curso Analise e Desenvolvimento de Sistemas.</p>
+    <p>🦄 Sou Desenvolvedora Trainee e curso Analise e Desenvolvimento de Sistemas.</p>
     <div>
         <img align="center" alt="RUBY" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png">
         <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
