@@ -4,14 +4,10 @@
     <p>🦄 Sou Desenvolvedora Trainee e curso Analise e Desenvolvimento de Sistemas.</p>
     <div>
         <div>
-        <p>MINHAS PRINCIPAIS HABILIDADES SÃO:</p>
-        <img align="center" alt="RUBY" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png">
+        <p>HABILIDADES</p>
+        <img align="center" alt="RUBY" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png">
         <img align="center" alt="MySQL" height="40" width="40" src="https://img.icons8.com/ios/344/ffffff/mysql-logo.png">
         <img align="center" alt="Docker" height="40" width="40" src="https://img.icons8.com/fluency/452/docker.png">
-    </div>
-        <br>
-    <div>
-        <p>Outras habilidades não menos importantes:</p>
         <img align="center" alt="Vue" height="40" width="40" src="https://img.icons8.com/color/452/vue-js.png">
         <img align="center" alt="Git" height="40" width="40" src="https://img.icons8.com/color/452/git.png">
         <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-glyphs/344/ffffff/github.png">
