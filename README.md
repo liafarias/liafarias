@@ -4,8 +4,8 @@
   <br/>
   
   <p>🇧🇷 I'm Lia, a Ruby developer</p>
-  <p>📚 Student of Analysis and Systems Development</p>
-  <p>🌱 Currently I'm honing my skills in Ruby, building projects to solidify my knowledge and exploring the exciting field of cybersecurity.</p>
+  <p>📚 Analysis and Systems Development</p>
+  <p>🌱 I'm currently honing my Ruby skills, building projects to solidify my knowledge, and exploring the exciting field of cybersecurity and data engineering.</p>
   <p>😺 Passionate about cats and games</p>
 </div>
 <br>
