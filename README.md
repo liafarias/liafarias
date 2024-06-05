@@ -4,14 +4,14 @@
   <br/>
   
   <p>🇧🇷 I'm Lia, a Ruby developer</p>
-  <p>📚 Analysis and Systems Development</p>
-  <p>🌱 I'm currently honing my Ruby skills, building projects to solidify my knowledge, and exploring the exciting field of cybersecurity and data engineering.</p>
+  <p>📚 Analysis and Systems Development | Postgraduate in Full Stack Development </p>
+  <p>🌱 I'm currently honing my Ruby skills, building projects to solidify my knowledge, and exploring the exciting field of data engineering.</p>
   <p>😺 Passionate about cats and games</p>
 </div>
 <br>
 <br>
 <div align="center">
-  <a href="https://twitter.com/studiesmoonx" target="_blank"><img src="https://img.shields.io/badge/-Twitter-04b8ef?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-04b8ef?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:liacarlosfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff6e96?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liafarias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0480ef?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
